@@ -1,0 +1,44 @@
+{
+    "display_columns": [
+        {
+            "column": "date"
+        },
+        {
+            "column": "channel"
+        },
+        {
+            "column": "country"
+        },
+        {
+            "column": "os"
+        },
+        {
+            "column": "installs",
+            "operation": "sum",
+            "label": "installs"
+        }
+    ],
+    "filter": [
+        {
+            "column": "os",
+            "operator": "eq",
+            "values": [
+                "ios"
+            ]
+        },
+        {
+            "column": "date",
+            "operator": "between",
+            "values": [
+                "2017-05-01", "2017-05-31"
+            ]
+        }
+    ],
+    "disposition": {
+        "group_by_columns": [
+            "date"
+        ],
+        "sort_on_column": "date",
+        "order": "asc"
+    }
+}

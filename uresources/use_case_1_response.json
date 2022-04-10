@@ -1,0 +1,152 @@
+[
+    {
+        "channel": "apple_search_ads",
+        "country": "US",
+        "impressions": 347554,
+        "clicks": 10738
+    },
+    {
+        "channel": "adcolony",
+        "country": "US",
+        "impressions": 498861,
+        "clicks": 12277
+    },
+    {
+        "channel": "vungle",
+        "country": "GB",
+        "impressions": 249197,
+        "clicks": 8831
+    },
+    {
+        "channel": "vungle",
+        "country": "US",
+        "impressions": 249618,
+        "clicks": 7440
+    },
+    {
+        "channel": "unityads",
+        "country": "US",
+        "impressions": 201584,
+        "clicks": 6888
+    },
+    {
+        "channel": "apple_search_ads",
+        "country": "GB",
+        "impressions": 99892,
+        "clicks": 3478
+    },
+    {
+        "channel": "chartboost",
+        "country": "US",
+        "impressions": 149110,
+        "clicks": 4437
+    },
+    {
+        "channel": "google",
+        "country": "FR",
+        "impressions": 99532,
+        "clicks": 3042
+    },
+    {
+        "channel": "chartboost",
+        "country": "FR",
+        "impressions": 100149,
+        "clicks": 2962
+    },
+    {
+        "channel": "facebook",
+        "country": "GB",
+        "impressions": 99203,
+        "clicks": 2888
+    },
+    {
+        "channel": "google",
+        "country": "US",
+        "impressions": 198077,
+        "clicks": 5884
+    },
+    {
+        "channel": "unityads",
+        "country": "GB",
+        "impressions": 148999,
+        "clicks": 4357
+    },
+    {
+        "channel": "facebook",
+        "country": "US",
+        "impressions": 99130,
+        "clicks": 3342
+    },
+    {
+        "channel": "google",
+        "country": "GB",
+        "impressions": 100441,
+        "clicks": 3876
+    },
+    {
+        "channel": "apple_search_ads",
+        "country": "DE",
+        "impressions": 49468,
+        "clicks": 1967
+    },
+    {
+        "channel": "chartboost",
+        "country": "GB",
+        "impressions": 99655,
+        "clicks": 3919
+    },
+    {
+        "channel": "unityads",
+        "country": "DE",
+        "impressions": 50804,
+        "clicks": 1541
+    },
+    {
+        "channel": "facebook",
+        "country": "CA",
+        "impressions": 49974,
+        "clicks": 1441
+    },
+    {
+        "channel": "chartboost",
+        "country": "CA",
+        "impressions": 49316,
+        "clicks": 1477
+    },
+    {
+        "channel": "google",
+        "country": "CA",
+        "impressions": 49780,
+        "clicks": 1459
+    },
+    {
+        "channel": "facebook",
+        "country": "FR",
+        "impressions": 49803,
+        "clicks": 1480
+    },
+    {
+        "channel": "facebook",
+        "country": "DE",
+        "impressions": 200901,
+        "clicks": 5851
+    },
+    {
+        "channel": "unityads",
+        "country": "CA",
+        "impressions": 98886,
+        "clicks": 3402
+    },
+    {
+        "channel": "google",
+        "country": "DE",
+        "impressions": 47202,
+        "clicks": 476
+    },
+    {
+        "channel": "chartboost",
+        "country": "DE",
+        "impressions": 99431,
+        "clicks": 1943
+    }
+]

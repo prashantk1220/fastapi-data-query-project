@@ -1,0 +1,34 @@
+{
+    "display_columns": [
+        {
+            "column": "channel"
+        },
+        {
+            "column": "country"
+        },
+        {
+            "column": "cpi"
+        },
+        {
+            "column": "spend",
+            "operation": "sum",
+            "label": "spend"
+        }
+    ],
+    "filter": [
+        {
+            "column": "country",
+            "operator": "eq",
+            "values": [
+                "CA"
+            ]
+        }
+    ],
+    "disposition": {
+        "group_by_columns": [
+            "channel"
+        ],
+        "sort_on_column": "cpi",
+        "order": "desc"
+    }
+}

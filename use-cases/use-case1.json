@@ -1,0 +1,37 @@
+{
+    "display_columns": [
+        {
+            "column": "channel"
+        },
+        {
+            "column": "country"
+        },
+        {
+            "column": "impressions",
+            "operation": "sum",
+            "label": "impressions"
+        },
+        {
+            "column": "clicks",
+            "operation": "sum",
+            "label": "clicks"
+        }
+    ],
+    "filter": [
+        {
+            "column": "date",
+            "operator": "lt",
+            "values": [
+                "2017-06-01"
+            ]
+        }
+    ],
+    "disposition": {
+        "group_by_columns": [
+            "channel",
+            "country"
+        ],
+        "sort_on_column": "clicks",
+        "order": "desc"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "display_columns": [
+        {
+            "column": "date"
+        },
+        {
+            "column": "country"
+        },
+        {
+            "column": "os"
+        },
+        {
+            "column": "revenue",
+            "operation": "sum",
+            "label": "revenue"
+        }
+    ],
+    "filter": [
+        {
+            "column": "country",
+            "operator": "eq",
+            "values": [
+                "US"
+            ]
+        },
+        {
+            "column": "date",
+            "operator": "eq",
+            "values": [
+                "2017-06-01"
+            ]
+        }
+    ],
+    "disposition": {
+        "group_by_columns": [
+            "os"
+        ],
+        "sort_on_column": "revenue",
+        "order": "desc"
+    }
+}
