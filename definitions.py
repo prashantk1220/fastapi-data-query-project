@@ -1,7 +1,7 @@
 import os
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-RESOURCE_DIR = os.path.join(ROOT_DIR, "uresources")
+RESOURCE_DIR = os.path.join(ROOT_DIR, "resources")
 USECASE_DIR = os.path.join(ROOT_DIR, "use-cases")
 
 DATASET_FILE_PATH = os.path.join(RESOURCE_DIR, "dataset.csv")
